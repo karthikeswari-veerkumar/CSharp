@@ -1,0 +1,15 @@
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\obj\Debug\net8.0\ShapeAreaPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\obj\Debug\net8.0\ShapeAreaPerimeter.AssemblyInfoInputs.cache
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\obj\Debug\net8.0\ShapeAreaPerimeter.AssemblyInfo.cs
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\obj\Debug\net8.0\ShapeAreaPerimeter.csproj.CoreCompileInputs.cache
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\obj\Debug\net8.0\ShapeAreaPerimeter.sourcelink.json
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\bin\Debug\net8.0\ShapeAreaPerimeter.exe
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\bin\Debug\net8.0\ShapeAreaPerimeter.deps.json
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\bin\Debug\net8.0\ShapeAreaPerimeter.runtimeconfig.json
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\bin\Debug\net8.0\ShapeAreaPerimeter.dll
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\bin\Debug\net8.0\ShapeAreaPerimeter.pdb
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\obj\Debug\net8.0\ShapeAreaPerimeter.dll
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\obj\Debug\net8.0\refint\ShapeAreaPerimeter.dll
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\obj\Debug\net8.0\ShapeAreaPerimeter.pdb
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\obj\Debug\net8.0\ShapeAreaPerimeter.genruntimeconfig.cache
+D:\Learning\c#\Assignments\CSharp\ShapeAreaPerimeter\obj\Debug\net8.0\ref\ShapeAreaPerimeter.dll
