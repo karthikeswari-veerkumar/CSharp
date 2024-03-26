@@ -1,0 +1,15 @@
+D:\Learning\c#\Assignments\CSharp\Compliment\obj\Debug\net8.0\Compliment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\c#\Assignments\CSharp\Compliment\obj\Debug\net8.0\Compliment.AssemblyInfoInputs.cache
+D:\Learning\c#\Assignments\CSharp\Compliment\obj\Debug\net8.0\Compliment.AssemblyInfo.cs
+D:\Learning\c#\Assignments\CSharp\Compliment\obj\Debug\net8.0\Compliment.csproj.CoreCompileInputs.cache
+D:\Learning\c#\Assignments\CSharp\Compliment\obj\Debug\net8.0\Compliment.sourcelink.json
+D:\Learning\c#\Assignments\CSharp\Compliment\bin\Debug\net8.0\Compliment.exe
+D:\Learning\c#\Assignments\CSharp\Compliment\bin\Debug\net8.0\Compliment.deps.json
+D:\Learning\c#\Assignments\CSharp\Compliment\bin\Debug\net8.0\Compliment.runtimeconfig.json
+D:\Learning\c#\Assignments\CSharp\Compliment\bin\Debug\net8.0\Compliment.dll
+D:\Learning\c#\Assignments\CSharp\Compliment\bin\Debug\net8.0\Compliment.pdb
+D:\Learning\c#\Assignments\CSharp\Compliment\obj\Debug\net8.0\Compliment.dll
+D:\Learning\c#\Assignments\CSharp\Compliment\obj\Debug\net8.0\refint\Compliment.dll
+D:\Learning\c#\Assignments\CSharp\Compliment\obj\Debug\net8.0\Compliment.pdb
+D:\Learning\c#\Assignments\CSharp\Compliment\obj\Debug\net8.0\Compliment.genruntimeconfig.cache
+D:\Learning\c#\Assignments\CSharp\Compliment\obj\Debug\net8.0\ref\Compliment.dll
